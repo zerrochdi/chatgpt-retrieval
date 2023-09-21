@@ -1,1 +1,37 @@
 My dog's name is Sunny.
+
+CV de Zakariae 
+
+Actuaire certifié à l’institut des actuaires, Zakariae a développé une expertise actuarielle sur la modélisation ALM, la mise en place de la directive Solvabilité 2, la mise en place de la norme IFRS 17, le management des projets actuariels et des processus de production.   
+Il a aussi une grande aisance dans la compréhension, maintenance et évolution des  modèles de calcul des indicateurs réglementaire S2, IFRS 17 principalement les modèles ALM (flexing ou full ALM) comme  Prophet ALS, NEMO et RAFM. 
+Zakariae a aussi des très bonnes compétences sur le business Epargne / retraite suite à la réalisation de plusieurs missions de conseils auprès des grands groupes d’assurance vie : CNP Assurances , BNP Cardif, AXA  etc.
+
+
+BNP Paribas Cardif -  Assistance au travaux d’actuariat épargne  (Prophet ALS) 
+
+Développement d’une stratégie d’allocation obligataire permettant de piloter la sensibilité au taux du portefeuille d’actif.
+Développement de la fonctionnalité calcul de la prime de risque ou déflateur monde réel sous IFRS 17.
+Développement de la fonctionnalité des ajustements d’expériences-variances dans le modèle ALM Epargne pour l’AOM IFRS17  infra et annuel : nombres de contrats, primes, sinistres, revalorisation  des fonds euros et PPE.
+Réalisation du stress test EIOPA 2021  : préparation et lancement des runs prophet, optimisation des résultats suite à l’activation des règles de gestion. 
+Réalisation des études d’impact suite à la mise en place des nouvelles actions de management dans le modèle de projection ALM Prophet/ALS périmètre Epargne (Stratégie financière, Stratégie de PB, Taux cible, Stratégie obligataire)
+Participation à la production annuelle 2019Q4 des SCR Marchés du portefeuille Epargne sous Prophet/ALS : Préparation des Runs, Production des notes d’analyses du TRA, Analyses des SCR marches, Préparation des supports et présentation au Top management. 
+Encadrement du projet de modélisation du commissionnement dynamique sous Prophet/ALS et étude de son impact sur le BEL/SCR. 
+
+CNP  Assurance  - Travaux SII, ALM et IFRS 17
+Solvabilité 2 & ALM  (Modélisations full ALM  - NEMO ) : 
+Implémentation du plan de contrôle de la production S2/MCEV.
+Modélisation d’une nouvelle approche pour la projection des frais dans les contextes Solvabilité 2 (pilier 1 et 2) et MCEV.
+Participation à la mise en place d’un nouveau processus d’analyse des écarts annuel et trimestriel de la VIF.
+Amélioration du modèle de projection ORSA : Intégration des dérivés, Intégration de la diffusion du spread de crédit, Intégration des chocs techniques, Intégration des produits structurés, Amélioration de la cinématique des chocs actifs.
+
+IFRS 17 :
+Participation au projet de à la première mise en place de la transition IFRS 17 (chantiers 1,2 et 3). 
+Participation à la mise en place du dossier de choix transition IFRS 17 pour le comité stratégique (Impact Fond propre, VFA, BBA et Fair Value)
+Participation à la définition du nouveau process de transition et définition du plan de contrôle de la transition IFRS 17
+
+AXA Groupe –  valorisation dans le cadre d’un projet d’acquisition
+
+Participation à la valorisation actuarielle sous Prophet de deux filiales d’AXA Groupe 
+Revue et validation des méthodes de modélisations actuarielles du business vie des deux filiales.   
+Calcul des indicateurs de rentabilités du business  vie et réalisation des sensibilités à destination des investisseurs. 
+
